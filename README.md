@@ -1,4 +1,4 @@
-<h1 align="center">a2f_facebook</h1>
+<h1><p align="center">a2f_facebook</p></h1>
 tools enable a2f authen Facebook not checkpoint.
 # install
 ```BASH
