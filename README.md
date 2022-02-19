@@ -3,13 +3,17 @@
 <p>tools enable a2f authen Facebook not checkpoint.</p>
 <h2>install</h2>
 <pre><code>
+<p>
 pkg install git
 pkg install python
 git clone https://github.com/Latip176/a2f_facebook
 pip install requests bs4
+</p>
 </pre></code>
 <h2>running</h2>
 <pre><code>
+<p>
 cd $HOME/a2f_facebook
 python pasang_a2f.py
+</p>
 </pre></code>
