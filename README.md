@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/Latip176/a2f_facebook/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Latip176/a2f_facebook/actions/workflows/pages/pages-build-deployment)
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 <h1><p align="center">a2f_facebook</p></h1>
 <p><img src="img/Screenshot_20220219-163944_Termux.jpg" /></p>
 <p>tools enable a2f authen Facebook not checkpoint.</p>
