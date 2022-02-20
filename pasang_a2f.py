@@ -275,8 +275,7 @@ if __name__=="__main__":
 	print(
 		Pasang(
 			""
-		).logo(
-		)
+		).logo()
 	)
 	cokii = input(" + Masukan cookie: ")
 	resss = req.get(
