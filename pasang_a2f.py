@@ -281,7 +281,7 @@ if __name__=="__main__":
 	)
 	cokii = input(" + Masukan cookie: ")
 	resss = req.get(
-		"https://mbasic.facebook.com/",cookies={
+		"https://mbasic.facebook.com/profile.php",cookies={
 			"cookie":cokii
 		}
 	).text
@@ -290,7 +290,7 @@ if __name__=="__main__":
 			'\<title\>(.*?)<\/title\>',str(
 				resss
 			)
-		)
+		)[0]
 		print(f' √ Cookies accept\n ^ Welcome {nama}\n')
 		menuju = Pasang(cokii)
 		menuju.spam(cokii)
