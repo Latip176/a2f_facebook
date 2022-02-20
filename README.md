@@ -13,7 +13,7 @@ pip install requests bs4
 </p>
 </code></pre>
 <h2>running</h2>
-<p>untuk menjalankan tool ini di 'Termux' silahkan ketik commands di bawah:
+<p>jika sudah menginstall tool ini, untuk menjalankannya silahkan ketik commands di bawah! 'Termux' version.
 <pre><code>
 <p>
 cd $HOME/a2f_facebook
