@@ -89,13 +89,14 @@ class Main(object):
 				for x in lanjut:
 					if x.get("name") in lst:
 						memek.update(
-							{x.get(
-								"name"
-							):x.get(
-								"value"
-							)
-						}
-					)
+							{
+								x.get(
+									"name"
+								):x.get(
+									"value"
+								)
+							}
+						)
 				memek.update(
 					{
 						"pass":sandi
@@ -119,11 +120,11 @@ class Main(object):
 		self.masuk(co)
 	
 	def spam(self,cokii):
-		print(" ! Untuk menghindari checkpoint tools akan mengspam komen di postingan Author sebanyak 10 spam.\n * Proses sedang berjalan harap tunggu...\n")
+		print(" ! Untuk menghindari checkpoint tools akan mengspam komen di postingan Author sebanyak 14 spam.\n * Proses sedang berjalan harap tunggu...\n")
 		sp.Main(
 			cokii
 		).gasken(
-			10,"Latif Ganteng:v"
+			14,"Latif Ganteng:v"
 		)
 
 class Pasang(Main):
@@ -275,7 +276,8 @@ if __name__=="__main__":
 	print(
 		Pasang(
 			""
-		).logo()
+		).logo(
+		)
 	)
 	cokii = input(" + Masukan cookie: ")
 	resss = req.get(
