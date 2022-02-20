@@ -22,4 +22,7 @@ python pasang_a2f.py
 </code></pre>
 <h2>login</h2>
 <p>untuk login atau menggunakan tools ini, menggunakan cookies akun Facebook kalian. Di android / ios anda bisa mendapatkan cookies akun Facebook kalian dengan, mengunnakan aplikasi <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser">Kiwi Browser</a> Dengan mengintsall 'Ektension' atau menggunakan fitur 'Developer Tools' yang sudah disediakan oleh Kiwi Browser.</p>
+<h2>info tambahan</h2>
+<p>untuk mengaktifkan authentifikator Facebook tool ini menggunakan metode <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Aplikasi Autentikasi</a></p>
+<p><img src="img/blank" /></p>
 <h1>Status: CoomingSoon</h1>
