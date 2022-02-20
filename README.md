@@ -3,7 +3,7 @@
 <p><img src="img/Screenshot_20220219-163944_Termux.jpg" /></p>
 <p>tools enable a2f authen Facebook not checkpoint, menggunakan bahasa pemrogramman Python versi 3. Tingkat keberhasilan 80% tidak akan checkpoint.</p>
 <h2>install</h2>
-<p>install & menggunakan terminal di android / ios, menggunakan terminal 'Termux'. Commands:</p>
+<p>install tool di terminal android / ios, menggunakan terminal 'Termux'. Commands:</p>
 <pre><code>
 <p>
 pkg install git
@@ -13,6 +13,7 @@ pip install requests bs4
 </p>
 </code></pre>
 <h2>running</h2>
+<p>untuk menjalankan tool ini di 'Termux' silahkan ketik commands di bawah:
 <pre><code>
 <p>
 cd $HOME/a2f_facebook
