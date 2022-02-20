@@ -29,4 +29,4 @@ python pasang_a2f.py
 <p>untuk reports bug / error silahkan hubungi <a href="https://wa.me/6283172566909">Developer / Author</a></p>
 <h2>thanks for</h2>
 <p>Team: <a href="https://github.com/Marga-176">Marga-176</a></p>
-<h1>Status: Realese v1.0.0</h1>
+<h1>Status: Release v1.0.0</h1>
