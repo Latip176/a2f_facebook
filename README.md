@@ -27,4 +27,6 @@ python pasang_a2f.py
 <p><img src="img/Screenshot_20220220-190855_Kiwi Browser.jpg" /></p>
 <h2>reports</h2>
 <p>untuk reports bug / error silahkan hubungi <a href="https://wa.me/6283172566909">Developer / Author</a></p>
+<h2>thanks for</h2>
+<p>Team: <a href="https://github.com/Marga-176">Marga-176</a></p>
 <h1>Status: CoomingSoon</h1>
