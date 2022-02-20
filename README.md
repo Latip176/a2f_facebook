@@ -19,5 +19,5 @@ python pasang_a2f.py
 </p>
 </code></pre>
 <h2>login</h2>
-<p>untuk login menggunakan cookies Facebook. Di android anda bisa mendapatkannya mengunnakan aplikasi <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser">Kiwi Browser</a> Dengan mengintsall 'Ektension' atau menggunakan fitur 'Developer Tools'</p>
+<p>untuk login atau menggunakan tools ini, menggunakan cookies akun Facebook kalian. Di android / ios anda bisa mendapatkannya mengunnakan aplikasi <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser">Kiwi Browser</a> Dengan mengintsall 'Ektension' atau menggunakan fitur 'Developer Tools' yang sudah disediakan oleh Kiwi Browser.</p>
 <h1>Status: CoomingSoon</h1>
