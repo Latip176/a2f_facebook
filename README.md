@@ -25,4 +25,6 @@ python pasang_a2f.py
 <h2>info tambahan</h2>
 <p>untuk mengaktifkan authentifikator Facebook, tool ini menggunakan metode <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Aplikasi Autentikasi</a></p>
 <p><img src="img/Screenshot_20220220-190855_Kiwi Browser.jpg" /></p>
+<h2>reports</h2>
+<p>untuk reports bug / error silahkan hubungi <a href="https://wa.me/6283172566909">Developer / Author</a></p>
 <h1>Status: CoomingSoon</h1>
