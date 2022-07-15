@@ -1,4 +1,5 @@
 [![pages-build-deployment](https://github.com/Latip176/a2f_facebook/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Latip176/a2f_facebook/actions/workflows/pages/pages-build-deployment)
+<img alt="Starts" src="https://img.shields.io/github/stars/Latip176/a2f_facebook.svg"/>
 <h1><p align="center">a2f_facebook</p></h1>
 <p><img src="img/Screenshot_20220220-191538_Termux.jpg" /></p>
 <p>tool enable a2f authen Facebook not checkpoint, menggunakan bahasa pemrogramman Python versi 3. Tingkat keberhasilan 80% tidak akan checkpoint.</p>
